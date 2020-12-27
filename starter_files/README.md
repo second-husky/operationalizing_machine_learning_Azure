@@ -23,7 +23,7 @@ It used Azure as a cloud platfrom to build an auto machine learning pipeline.
 ## Key Steps
 
 *TODO*: Write a short discription of the key steps. Remeber to include all the screencasts required to demonstrate key steps.
-
+https://github.com/second-husky/operationalizing_machine_learning_Azure/blob/master/starter_files/screen-shots/screenshot_of_active_rest_endpoint.PNG
 
 *TODO* Remeber to provide screenshots of the `RunDetails` widget as well as a screenshot of the best model trained with it's parameters.
 
