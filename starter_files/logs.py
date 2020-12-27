@@ -11,8 +11,8 @@ name = "bank-marketing-best-model"
 service = Webservice(name=name, workspace=ws)
 
 # enable application insight
-service.update(enable_app_insights=True)
-
+#service.update(enable_app_insights=True)
+service.update(auth_enabled = True)
 logs = service.get_logs()
 
 for line in logs.split('\n'):
