@@ -4,11 +4,14 @@
 # Machine Learning Pipeline Building using Azure AutoML
 
 *TODO:* Write an overview to your project.
+
 This project aimed to using machine learning to predict the potential customers for bank marketing based on the given data of potential customer's characteristics. 
 It used Azure as a cloud platfrom to build an auto machine learning pipeline.
 
 ## Architectural Diagram
+
 *TODO*: Provide an architectual diagram of the project and give an introduction of each step.
+
 1) automated ML experiment: run an automated ML experiment to search for and optimized a best model
 2) deploy the best model: deploy the best model for future consumption
 3) enable logging: create the logging for the automated run 
@@ -18,7 +21,9 @@ It used Azure as a cloud platfrom to build an auto machine learning pipeline.
 
 
 ## Key Steps
+
 *TODO*: Write a short discription of the key steps. Remeber to include all the screencasts required to demonstrate key steps.
+
 
 *TODO* Remeber to provide screenshots of the `RunDetails` widget as well as a screenshot of the best model trained with it's parameters.
 
