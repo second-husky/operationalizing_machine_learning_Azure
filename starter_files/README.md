@@ -40,7 +40,7 @@ This best model was deployed. The application insights was enabled through sdk
 Logs was gotten by running the logs.py through command line
 ![alt text](https://github.com/second-husky/operationalizing_machine_learning_Azure/blob/master/starter_files/screen-shots/screenshot_of_logs.PNG)
 
-To make consuming endpoints easier, swagger was run on localhost shoing the HTTP API methods and responses for the model
+To make consuming endpoints easier, swagger was run on localhost showing the HTTP API methods and responses for the model
 ![alt text](https://github.com/second-husky/operationalizing_machine_learning_Azure/blob/master/starter_files/screen-shots/screenshot_of_swagger_on_localhost.PNG)
 
 Then interaction with the endpoint was realized by passing in JSON string inputsand JSON output was produced from the model. 
