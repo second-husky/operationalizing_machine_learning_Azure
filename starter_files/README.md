@@ -23,10 +23,19 @@ It used Azure as a cloud platfrom to build an auto machine learning pipeline.
 ## Key Steps
 
 *TODO*: Write a short discription of the key steps. Remeber to include all the screencasts required to demonstrate key steps.
+*TODO* Remeber to provide screenshots of the `RunDetails` widget as well as a screenshot of the best model trained with it's parameters.
+
+First the bank marketing data was digested into a registered dataset named Bank-marketing
+![alt text](https://github.com/second-husky/operationalizing_machine_learning_Azure/blob/master/starter_files/screen-shots/screenshot_of_registered_datasets.PNG)
+Then an autoML experiment was submitted to select the best model for deployment
+![alt text](https://github.com/second-husky/operationalizing_machine_learning_Azure/blob/master/starter_files/screen-shots/screenshot_of_completed_experiment.PNG)
+
+
+
 ![alt text](https://github.com/second-husky/operationalizing_machine_learning_Azure/blob/master/starter_files/screen-shots/screenshot_of_active_rest_endpoint.PNG)
 
 
-*TODO* Remeber to provide screenshots of the `RunDetails` widget as well as a screenshot of the best model trained with it's parameters.
+
 
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
