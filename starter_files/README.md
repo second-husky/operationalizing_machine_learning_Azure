@@ -50,6 +50,7 @@ The endpoint was benchmarked using Apache bench
 ![alt text](https://github.com/second-husky/operationalizing_machine_learning_Azure/blob/master/starter_files/screen-shots/screenshot_of_the_benchmarking.PNG)
 
 Then a pipeline was created, published and consumed through sdk.
+
 created pipeline
 ![alt text](https://github.com/second-husky/operationalizing_machine_learning_Azure/blob/master/starter_files/screen-shots/screenshot_of_pipeline_created_and_run.PNG)
 
