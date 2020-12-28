@@ -30,6 +30,7 @@ It used Azure as a cloud platfrom to build an auto machine learning pipeline.
 
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
+https://www.youtube.com/watch?v=c1PIT_MEDAc
 
 ## Standout Suggestions
 *TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.
