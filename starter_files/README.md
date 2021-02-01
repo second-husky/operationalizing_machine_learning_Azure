@@ -1,16 +1,9 @@
-*NOTE:* This file is a template that you can use to create the README for your project. The *TODO* comments below will highlight the information you should be sure to include.
-
-
 # Machine Learning Pipeline Building using Azure AutoML
-
-*TODO:* Write an overview to your project.
 
 This project aimed to using machine learning to predict the potential customers for bank marketing based on the given data of potential customer's characteristics. 
 It used Azure as a cloud platfrom to build an auto machine learning pipeline.
 
 ## Architectural Diagram
-
-*TODO*: Provide an architectual diagram of the project and give an introduction of each step.
 
 1) automated ML experiment: run an automated ML experiment to search for and optimized a best model
 2) deploy the best model: deploy the best model for future consumption
@@ -21,9 +14,6 @@ It used Azure as a cloud platfrom to build an auto machine learning pipeline.
 
 
 ## Key Steps
-
-*TODO*: Write a short discription of the key steps. Remeber to include all the screencasts required to demonstrate key steps.
-*TODO* Remeber to provide screenshots of the `RunDetails` widget as well as a screenshot of the best model trained with it's parameters.
 
 First the bank marketing data was digested into a registered dataset named Bank-marketing
 ![alt text](https://github.com/second-husky/operationalizing_machine_learning_Azure/blob/master/starter_files/screen-shots/screenshot_of_registered_datasets.PNG)
@@ -68,7 +58,6 @@ The scheduled run is running
 ![alt text](https://github.com/second-husky/operationalizing_machine_learning_Azure/blob/master/starter_files/screen-shots/screenshot_of_scheduled_run_in_ML_Studio.PNG)
 
 ## Screen Recording
-*TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
 
 screen cast
 https://www.youtube.com/watch?v=c1PIT_MEDAc
