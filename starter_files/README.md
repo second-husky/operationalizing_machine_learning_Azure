@@ -23,6 +23,8 @@ It used Azure as a cloud platfrom to build an auto machine learning pipeline.
      
  6） Publish the pipeline: the pipeline was published to the workspace and a REST point was created to rerun the pipeline from any HTTP library on any platform
 
+Architectural Diagram
+![alt text](https://github.com/second-husky/operationalizing_machine_learning_Azure/blob/master/starter_files/diagram.png)
 
 ## Key Steps
 
