@@ -3,7 +3,7 @@
 This project aimed to predict if the client will subscribe to a term deposit with a bank based on the UCI Bank Marketing dataset with an end-to-end solution. 
 Automated machine learning (autoML) on the Microsoft Azure machine learning platform was used to train and optimize a classification model.
 The best model can be deployed as a webservice and accessed through HTTP request by users.
-Furthermore, the autoML step was integrated in a pipeline to create deployable workflows that can find the best algorithm for new data
+Furthermore, the autoML step was integrated in a pipeline which was published and could be accessed through REST endpoint. The pipeline created deployable workflows that can find the best algorithm for new data
 
 ## Architectural Diagram
 
