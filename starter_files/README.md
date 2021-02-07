@@ -89,6 +89,6 @@ screen cast
 https://www.youtube.com/watch?v=c1PIT_MEDAc
 
 ## Possible Improvements:
-1) Additional steps such as data cleaning and model registration can be integrated into the pipeline  
+1) Additional steps such as data cleaning and model registration can be integrated into the pipeline to make the training using new data more efficient
 
 2) Introduce a more user-friendly way to input the data when a customer needs to do inference through the model endpoint. For example, adding code to convert a tabulated csv file into json format to pass to the HTTP request as input data 
