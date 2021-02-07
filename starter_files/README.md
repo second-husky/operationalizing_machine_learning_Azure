@@ -63,5 +63,7 @@ screen cast
 https://www.youtube.com/watch?v=c1PIT_MEDAc
 
 ## Standout Suggestions
-*TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.
+
+Possible Improvement:
+
 The way to consume the endpoints can be made more user friendly by adding in data conversion to JSON format, so that input data is not limited to JSON
