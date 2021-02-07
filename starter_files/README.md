@@ -5,12 +5,15 @@ It used Azure as a cloud platfrom to build an auto machine learning pipeline.
 
 ## Architectural Diagram
 
-1) automated ML experiment: run an automated ML experiment to search for and optimized a best model
-2) deploy the best model: deploy the best model for future consumption
-3) enable logging: create the logging for the automated run 
-4) swagger documentation: use swagger as a tool for easier documentation of how to consume the endpoints via http requests
-5) consume model endpoints: consume the endpoint by sending http request to use the best model to make predictions based on new input data
-6) create publish and consume a pipeline: a pipeline was created and published for future consumption of the endpoint
+ 1） Upload data and create dataset in Azure ML studio
+ 2） Create and configure an AutoML step run an automated ML experiment in order to search for and optimized a best model
+ 3） Create and configure a pipeline with the AutoML step as the main step
+ 4） Run the pipeline and register the best model 
+ 5） Deploy the best model and consume the endpoint 
+     Enable logging: create the logging for the endpoint consumption
+     Swagger documentation: use swagger as a tool for easier documentation of how to consume the endpoints via http requests
+     Consume model endpoints: test the endpoint by sending http request to use the best model to make predictions based on new input data
+ 6） Publish the pipeline: the pipeline was published to the workspace and a REST point was created to rerun the pipeline from any HTTP library on any platform
 
 
 ## Key Steps
