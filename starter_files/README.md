@@ -70,10 +70,10 @@ Since the autoML step and the model deployment has been tested, a pipeline was t
 A pipeline run named "Run 1" was created and currently running indicated by the status on this Pipelines page. It is associated with the pipeline-rest-endpoint experiment 
 ![alt text](https://github.com/second-husky/operationalizing_machine_learning_Azure/blob/master/starter_files/screen-shots/screenshot_of_pipeline_created_and_run.PNG)
 
-A pipeline endpoint named "Bankmarketing Train"is also created and the status shows it is active and ready to used to access the pipeline
+A pipeline endpoint named "Bankmarketing Train"is also created and the status shows it is active (shown in the last status column) and ready to used to access the pipeline
 ![alt text](https://github.com/second-husky/operationalizing_machine_learning_Azure/blob/master/starter_files/screen-shots/screenshot_of_pipeline_endpoint.PNG)
  
- The endpoint page also shows a REST endpoint has been created and remained active
+ The endpoint page also shows a REST endpoint has been created and remained active (shown in the last status column)
 ![alt text](https://github.com/second-husky/operationalizing_machine_learning_Azure/blob/master/starter_files/screen-shots/screenshot_of_active_rest_endpoint.PNG)
 
 Run details were captured showing the step runs. The record from run details shows one run is being submitted
