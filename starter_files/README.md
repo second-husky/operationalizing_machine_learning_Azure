@@ -86,6 +86,7 @@ In the pipeline-rest-endpoint experiment page, the status of run 1 shows it is r
 screen cast
 https://www.youtube.com/watch?v=c1PIT_MEDAc
 
-## Possible Improvement:
+## Possible Improvements:
+1) Additional steps such as data cleaning and model registration can be integrated into the pipeline  
 
-The way to consume the endpoints can be made more user friendly by adding in data conversion to JSON format, so that input data is not limited to JSON
+2) Introduce a more user-friendly way to input the data when a customer needs to do inference through the model endpoint. For example, adding code to convert a tabulated csv file into json format to pass to the HTTP request as input data 
